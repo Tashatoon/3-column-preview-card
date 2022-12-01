@@ -1,0 +1,72 @@
+p {
+    display: block;
+    padding: 15px;
+    line-height: 25px;
+    font-size: 15px;
+    color: white;
+}
+
+h3 {
+    display: block;
+    padding: 17px;
+    font-family: "Lexend Deca";
+    font-size: 1.75em;
+    color: white;
+}
+.columns1 {
+    width: 250px;
+    padding: 0px;
+    float: left;
+    justify-content: center;
+    align-items: center;
+    background: fixed;
+    background-color: hsl(31, 77%, 52%);
+    border-radius: 2px;
+    
+}
+.columns2 {
+width: 250px;
+    padding: 0px;
+    float: left;
+    justify-content: center;
+    align-items: center;
+    background: fixed;
+    background-color: hsl(184, 100%, 22%);
+    border-radius: 2px;
+}
+
+.columns3 {
+    width: 250px;
+   
+    padding: 0px;
+    float: left;
+    justify-content: center;
+    align-items: center;
+    background: fixed;
+    background-color: hsl(179, 100%, 13%);
+    border-radius: 2px;
+}
+#about {
+    padding: 310px;
+}
+.columns {
+    display: flex;
+    width: 100%;
+    padding: auto;
+    margin: auto;
+    overflow: auto;
+}
+.container {
+    height: 100%;
+    position: relative;
+    
+  }
+  .vertical-center {
+    margin-top: 15px;
+    border-radius: 45px;
+    background-color: transparent;
+    text-align:center;
+  }
+
+
+  
